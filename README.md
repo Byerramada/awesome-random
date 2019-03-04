@@ -1,4 +1,5 @@
 # awesome-random
+gi
 
 A not so curated and random list of amazingly awesome awesomeness.
 
@@ -37,7 +38,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Gaming
 
-- [ULTIMATE GAMES WILL RELEASE PET CARE AND GUESS THE WORD FOR YOUNGER PLAYERS ON SWITCH](https://www.gonintendo.com/stories/328626-ultimate-games-will-release-pet-care-and-guess-the-word-for-young)
+- [ULTIMATE GAMES WILL RELEASE PET CARE AND GUESS THE WORD FOR YOUNGER PLAYERS ON SWITCH](https://www.google.com)
 
 ## Development Environment
 
